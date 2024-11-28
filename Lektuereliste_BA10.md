@@ -83,6 +83,7 @@ https://www.philsem.uni-kiel.de/de/studium-und-lehre/pruefungen/pruferberechtigu
 ## Literaturliste für die eigenständige Wahlpflichtlektüre (BA10)
 
 Diese Liste dient der Orientierung und bietet eine Auswahl an philosophischen Texten, über die eine Prüfung abgelegt werden kann. Die Lektüre ist in jedem Falle mit der erstprüfenden Person zu vereinbaren. 
+Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für eine mündlöiche Prüfung. So ist es zum Beispiel völlig sinnlos, ein Prüfungsgespräch über die gesamte *Kritik der reinen Vernunft* oder die *Phänomenologie des Geistes* zu führen. Auch hier gilt eine sorgfältige Auswahl in Absprache mit der erstprüfenden Person. 
 
 **Bereiche und Epochen (Legende):**
 
