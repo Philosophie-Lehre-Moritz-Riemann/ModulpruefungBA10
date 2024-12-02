@@ -19,15 +19,17 @@ Die Kompetenzen der Studierenden werden in Teilprüfungen unterschiedlicher Art 
 
 
 
-1. Die Studierenden sprechen im Laufe ihres 5. oder 6. Semesters mit einer/einem prüfungsberechtigten Dozentin/en des Philosophischen Seminars ihrer Wahl zwei philosophische Werke ab, die Gegenstand der mündlichen Prüfung sein sollen. Die Werke sollen entweder zwei verschiedenen philosophiehistorischen Epochen oder zwei verschiedenen philosophischen Disziplinen zugeordnet sein. Die beiden Werke dürfen nicht bereits Gegenstand eines bereits absolvierten Seminars oder einer schriftlichen Prüfung gewesen sein. Die/der erstprüfende Dozent/in **muss einen Doktortitel** haben und in der Liste der Prüfungsberechtigten aufgeführt sein.
+1. Die Studierenden sprechen im Laufe ihres 5. oder 6. Semesters mit einer/einem prüfungsberechtigten Dozentin/en des Philosophischen Seminars ihrer Wahl zwei philosophische Werke ab, die Gegenstand der mündlichen Prüfung sein sollen. Die Werke sollen entweder zwei verschiedenen philosophiehistorischen Epochen oder zwei verschiedenen philosophischen Disziplinen zugeordnet sein. Die beiden Werke dürfen nicht bereits Gegenstand eines bereits absolvierten Seminars oder einer schriftlichen Prüfung gewesen sein. 
 
-2. Erst **nach der Absprache** melden sich die Studierenden in der vom Gemeinsamen Prüfungsamt bekannt gegebenen Frist zur Teilmodulprüfung an. 
+2. Die/der erstprüfende Dozent/in **muss einen Doktortitel** haben und in der Liste der Prüfungsberechtigten aufgeführt sein.
 
-3. Die mündliche Prüfung dauert 30 Minuten und findet entweder im 1. Prüfungszeitraum (nach Ende der Vorlesungszeit) oder im 2. Prüfungszeitraums (vor Beginn der Vorlesungszeit des Folgesemesters) statt. 
+3. Erst **nach der Absprache** melden sich die Studierenden in der vom Gemeinsamen Prüfungsamt bekannt gegebenen Frist zur Teilmodulprüfung an. 
 
-4. Das Prüfungsgespräch wird von einer/einem beisitzenden Dozentin/en protokolliert. Die Studierenden sollen in diesem Gespräch exemplarisch nachweisen, dass sie mit den maßgeblichen Strömungen, Positionen und Werken der Philosophiegeschichte vertraut sind, dass sie die Fähigkeit besitzen, sich philosophische Texte  eigenständig zu erschließen und systematisch zu analysieren, ihre Thesen und Argumentationszusammenhänge kritisch zu reflektieren und in einen größeren Diskussionszusammenhang einzuordnen.
+4. Die mündliche Prüfung dauert 30 Minuten und findet entweder im 1. Prüfungszeitraum (nach Ende der Vorlesungszeit) oder im 2. Prüfungszeitraums (vor Beginn der Vorlesungszeit des Folgesemesters) statt. 
 
-5. Die Note der mündlichen Prüfung geht mit einer Gewichtung von 50 % in die Modulgesamtnote ein.
+5. Das Prüfungsgespräch wird von einer/einem beisitzenden Dozentin/en protokolliert. Die Studierenden sollen in diesem Gespräch exemplarisch nachweisen, dass sie mit den maßgeblichen Strömungen, Positionen und Werken der Philosophiegeschichte vertraut sind, dass sie die Fähigkeit besitzen, sich philosophische Texte  eigenständig zu erschließen und systematisch zu analysieren, ihre Thesen und Argumentationszusammenhänge kritisch zu reflektieren und in einen größeren Diskussionszusammenhang einzuordnen.
+
+6. Die Note der mündlichen Prüfung geht mit einer Gewichtung von 50 % in die Modulgesamtnote ein.
 
 **Die Informationen als PDF:**
 
@@ -83,7 +85,8 @@ https://www.philsem.uni-kiel.de/de/studium-und-lehre/pruefungen/pruferberechtigu
 ## Literaturliste für die eigenständige Wahlpflichtlektüre (BA10)
 
 Diese Liste dient der Orientierung und bietet eine Auswahl an philosophischen Texten, über die eine Prüfung abgelegt werden kann. Die Lektüre ist in jedem Falle mit der erstprüfenden Person zu vereinbaren. 
-Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für eine mündlöiche Prüfung. So ist es zum Beispiel völlig sinnlos, ein Prüfungsgespräch über die gesamte *Kritik der reinen Vernunft* oder die *Phänomenologie des Geistes* zu führen. Auch hier gilt eine sorgfältige Auswahl in Absprache mit der erstprüfenden Person. 
+
+Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für eine mündliche Prüfung. So ist es zum Beispiel völlig sinnlos, ein Prüfungsgespräch über die gesamte *Kritik der reinen Vernunft* oder die *Phänomenologie des Geistes* zu führen. Auch hier gilt eine sorgfältige Auswahl in Absprache mit der erstprüfenden Person. 
 
 **Bereiche und Epochen (Legende):**
 
