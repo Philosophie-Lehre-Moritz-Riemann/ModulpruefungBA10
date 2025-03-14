@@ -60,12 +60,16 @@ https://www.philsem.uni-kiel.de/de/studium-und-lehre/pruefungen/informationen-zu
 |Dr. Lukas Tank |-|X|X|X|X|X|X|
 |Dr. Astrid von der Lühe |-|X|X|X|X|X|X|
 |Dr. Lieske Voget-Kleschin |-|X|X|X|X|X|X|
+|Dr. Thomas Wachtendorf |-|X|X|X|X|X|X|
 |Stefano Franceschini, M.A. |-|-|-|X|-|-|X|
-|Eric Grabow, M.A. |-|-|-|X|-|-|X|
 |Katia Hansen, M.A. |-|-|-|X|-|-|X|
 |Antonia Holland-Cunz, M.A.|-|-|-|X|-|-|X|
+|Harald Klawitter, Stud.Rat|-|-|-|X|-|-|X|
 |Frederike Köhl, St.R |-|-|-|X|-|-|X|
+|Karin Kunde, M.A.|-|-|-|X|-|-|X|
 |Timm Lewerenz|-|-|-|X|-|-|X|
+|Christian Loos, 1. Staatsexamen Gym.|-|-|-|X|-|-|X|
+|Stefan Jelonnek, M.A.|-|-|-|X|-|-|X|
 |Norman Marquardt M.A.|-|-|-|X|-|-|X|
 |Kira Meyer M.A.|-|-|-|X|-|-|X|
 |Anna Rabe, M.Ed. |-|-|-|X|-|-|X|
@@ -129,6 +133,7 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 | Marc Aurel  | Selbstbetrachtungen  | II | A |
 | Plotin  | Enneaden (Auswahl)  | I, II| A |
 |Sextus Empiricus | Grundriß der pyrrhonischen Skepsis  | I, V | A|
+|Cicero| De Officiis (Vom pflichtgemäßen Handeln) | II| A|
 
 
 
@@ -159,6 +164,7 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |Nicolaus Cusanus |De docta ignorantia |I, III| A|
 |Nicolaus Cusanus |Idiota de mente |I, III| A|
 |Nicolaus Cusanus| Trialogus de possest |I| A|
+|Giovanni Pico della Mirandola| Über die Würde des Menschen | III| A|
 
 ## Neuzeit (B)
 
@@ -195,9 +201,10 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |David Hume |An Enquiry concerning Human Understanding |I| B|
 |David Hume |Enquiry concerning the Principles of Morals |II| B|
 |David Hume | A Treatise of Human Nature | I, II | B|
-|Jean-Jacques Rousseau| Contrat Social |II, IV| B|
-|Jean-Jacques Rousseau |Discours sur les sciences et les arts |II, IV| B|
-|Jean-Jacques Rousseau |Discours sur l´origin de l´inégalité parmi les hommes |II, IV| B|
+|David Hume| Dialoge über natürliche Religion | I, IV| B|
+|Jean-Jacques Rousseau| Vom Gesellschaftsvertrag |II, IV| B|
+|Jean-Jacques Rousseau |Diskurs über die Wissenschaften und die Künste |II, IV| B|
+|Jean-Jacques Rousseau |Diskurs über die Ungleichheit zwischen den Menschen|II, IV| B|
 |Moses Mendelssohn |Morgenstunden oder Vorlesungen über das Dasein Gottes |I| B|
 |Moses Mendelssohn| Phädon oder über die Unsterblichkeit der Seele |II, III|B|
 |Adam Smith |Theorie der ethischen Gefühle |II| B|
@@ -215,6 +222,7 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |Immanuel Kant |Kritik der Urteilskraft |I, IV| B|
 |Immanuel Kant |Metaphysik der Sitten |II|B|
 |Immanuel Kant |Zum ewigen Frieden |II|B|
+|Immanuel Kant| Die Religion innerhalb der Grenzen der bloßen Vernunft | I, IV| B|
 |Friedrich Schiller |Ueber die ästhetische Erziehung des Menschen in einer Reihe von Briefen |IV| B|
 |Charles Fourier| Theorie der vier Bewegungen |II, III| B|
 |Carl Leonhard Reinhold |Versuch einer neuen Theorie des menschlichen Vorstellungsvermögens |I, III| B|
@@ -225,6 +233,8 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |----|----|----|----|
 |Johann Gottlieb Fichte |Grundlage der gesamten Wissenschaftslehre (1794) |I| B|
 |Johann Gottlieb Fichte |Über den Begriff der Wissenschaftslehre |I| B|
+|Johann Gottlieb Fichte| Grundlage des Naturrechts | II| B|
+|Johann Gottlieb Fichte| Die Bestimmung des Menschen | III| B|
 |Friedrich Wilhelm Joseph Schelling |Bruno, oder über das göttliche und natürliche Prinzip der Dinge |I| B|
 |Friedrich Wilhelm Joseph Schelling |Darstellung meines Systems (1801) |I| B|
 |Friedrich Wilhelm Joseph Schelling |Philosophische Untersuchungen über das Wesen der menschlichen Freiheit |I, II |B|
@@ -252,6 +262,8 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |Henry David Thoreau| Walden |II| B|
 |Henry David Thoreau| Resistance to Civil Government / On civil disobedience and other Essays |II| B|
 |John Stuart Mill |On Liberty |II| B|
+|John Stuart Mill | Utilitarianism | II | B|
+|John Stuart Mill und Harriet Taylor| Die Unterwerfung der Frauen | II, IV| B|
 |Sören Kierkegaard |Der Begriff der Angst |II, III, IV| B|
 |Sören Kierkegaard |Die Krankheit zum Tode |II, III, IV| B|
 |Sören Kierkegaard | Entweder/Oder |II, III, IV| B|
@@ -260,7 +272,7 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |Friedrich Nietzsche |Die Geburt der Tragödie aus dem Geiste der Musik |II, IV| B|
 |Friedrich Nietzsche| Jenseits von Gut und Böse |II, IV| B|
 |Friedrich Nietzsche| Zur Genealogie der Moral |II| B|
-|John Stuart Mill | Utilitarianism | II | B|
+
 
 
 ## 20. Jahrhundert und Gegenwart (C)
@@ -268,7 +280,10 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |  Autor/in | Werk  | Bereich  | Epoche |
 |----|----|----|----|
 |Wilhelm Dilthey |Einleitung in die Geisteswissenschaften |I| C|
-|Gottlob Frege |Über Sinn und Bedeutung |I| C|
+|Alfred J. Ayer| Language Truth and Logic | I| C|
+|Gottlob Frege| Funktion Begriff Bedeutung | I| C|
+|Gottlob Frege| Logische Untersuchungen | I| C|
+|Gottlob Frege| Schriften zur Logik und Sprachphilosophie | I| C|
 |Georg Simmel |Philosophie des Geldes (insbes. Vorrede u. Kap. 6) |IV| C|
 |Georg Simmel |Philosophische Kultur |IV| C|
 |Henri Bergson |Zeit und Freiheit |I| C|
@@ -289,13 +304,19 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |Gabriel Marcel |Sein und Haben (Auswahl) |III| C|
 |Maurice Merleau-Ponty |Das Auge und der Geist |III| C|
 |Maurice Merleau-Ponty |Die Phänomenologie der Wahrnehmung |I| C|
+|Maurice Merleau-Ponty| Die Prosa der Welt | I| C|
+|Maurice Merleau-Ponty| Zeichen | I| C|
 |Jean-Paul Sartre |Das Sein und das Nichts (Auswahl) |I, III, IV |C|
+|Jean-Paul Sartre| Die Transzendenz des Ego | II| C|
 |Albert Camus |Der Mythos des Sisyphos |II, III, IV| C|
+|Albert Camus| Der Mensch in der Revolte | II| C|
 |Martin Heidegger |Holzwege (Auswahl) |I, III| C|
 |Martin Heidegger |Kant und das Problem der Metaphysik |I| C|
 |Martin Heidegger |Sein und Zeit |I, III| C|
 |Martin Heidegger |Wegmarken (Auswahl) |I, III| C|
-|Martin Heidegger |Technik |I, III, IV| C|
+|Martin Heidegger |Die Frage nach der Technik |I, III, IV| C|
+|Martin Heidegger| Der Ursprung des Kunstwerkes | I| C|
+|Martin Heidegger| Kant und das Problem der Metaphysik | I| C|
 |Hans-Georg Gadamer |Wahrheit und Methode |I, IV| C|
 |Paul Ricoeur |Hermeneutik und Strukturalismus/Hermeneutik und Psychoanalyse (Auswahl) |I| C|
 |Hans Blumenberg |Arbeit am Mythos |I, IV| C|
@@ -313,13 +334,19 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |Sigmund Freud |Das Unbehagen in der Kultur |IV| C|
 |Georg Lukács |Geschichte und Klassenbewußtsein |III, IV| C|
 |Herbert Marcuse |Triebstruktur und Gesellschaft |II, III, IV| C|
+|Herbert Marcuse| Der eindimensionale Mensch | II| C|
 |Max Horkheimer |Zur Kritik der instrumentellen Vernunft |III, IV| C|
 |Max Horkheimer/Theodor W. Adorno| Dialektik der Aufklärung |IV| C|
 |Theodor W. Adorno |Ästhetische Theorie |I, IV|C|
 |Theodor W. Adorno| Negative Dialektik |I, IV| C|
+|Theodor W. Adorno| Minima Moralia | II, IV| C|
 |Jürgen Habermas |Faktizität und Geltung |II| C|
 |Jürgen Habermas |Theorie des kommunikativen Handelns (Auswahl) |I, II, IV| C|
 |Jürgen Habermas |Der philosophische Diskurs der Moderne |I, II, IV| C|
+|Jürgen Habermas| Die Einbeziehung des Anderen | II| C|
+|Jürgen Habermas| Erläuterungen zur Diskursethik | II| C|
+|Jürgen Habermas| Moralbewusstsein und kommunikatives Handeln | II| C|
+|Jürgen Habermas| Zwischen Naturalismus und Religion | I| C|
 |Karl-Otto Apel |Die Transformation der Philosophie II |I, II| C|
 |John Rawls | A Theory of Justice |II| C|
 |John Rawls | Law of Peoples |II| C|
@@ -351,17 +378,19 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |Donald Davidson| Handlung und Ereignis |II| C|
 |Donald Davidson| Wahrheit und Interpretation |I| C|
 |Nelson Goodman |Languages of Art |I| C|
-|John Searle| Speech Acts |I, II| C|
+|Nelson Goodman| Weisen der Welterzeugung | I| C|
+|John Searle| Speech Acts: An Essay in the Philosophy of Language. |I, II| C|
+|John L. Austin| Zur Theorie der Sprechakte (How to Do Things with Words) | I| C|
 |Gilbert Ryle |The Concept of Mind |I| C|
 |Michael Dummett | Truth and other Enigmas |I| C|
 |Ludwik Fleck |Entstehung und Entwicklung einer wissenschaftlichen Tatsache |I,VI| C|
 |Karl Popper |Logik der Forschung |I| C|
 |Imre Lakatos |Proofs and Refutations |I| C|
 |Thomas S. Kuhn | The Structure of Scientific Revolutions |I| C|
-|Paul Feyerabend |Against Method |I| C|
+|Paul Feyerabend | Wider den Methodenzwang |I| C|
 |Karin Knorr-Cetina| Die Fabrikation der Erkenntnis. Zur Anthropologie der Naturwissenschaft |I| C|
 |Gaston Bachelard| Epistemologie |I| C|
-|Gilbert Simondon| Die Existenzweise technischer Objekte|V, C|
+|Gilbert Simondon| Die Existenzweise technischer Objekte|V| C|
 |Clifford Geertz |Interpretation of Culture |III, IV| C|
 |Niklas Luhmann |Soziale Systeme |I, IV| C|
 |Niklas Luhmann |Ökologische Kommunikation |I, II| C|
@@ -374,17 +403,27 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |Michel Foucault |Die Ordnung der Dinge |I, IV |C|
 |Michel Foucault |Die Ordnung des Diskurses |I, IV| C|
 |Michel Foucault |Sexualität und Wahrheit (Auswahl) |I, II, IV| C|
+|Michel Foucault| Archäologie des Wissens | I| C|
 |Jacques Derrida |Die Schrift und die Differenz |I| C|
 |Jacques Derrida |Grammatologie |I| C|
 |Jacques Derrida |Von der Gastfreundschaft| II, IV| C| 
+|Jacques Derrida| Die Stimme und das Phänomen | I| C|
+|Jacques Derrida| Gesetzeskraft | II| C|
+|Jacques Derrida| Limited Inc. | I| C|
 |Jean-Francois Lyotard | Das postmoderne Wissen |I, IV| C|
+|Jean-Francois Lyotard| Der Widerstreit | II| C|
 |Judith Butler |Gender Trouble |III, IV| C|
+|Judith Butler| Die Macht der Geschlechternormen | II| C|
+|Judith Butler| Hass spricht. Eine Politik des Performativen | II| C|
+|Judith Butler| Körper von Gewicht | II| C|
+|Judith Butler| Kritik der ethischen Gewalt | II| C|
 |Gilles Deleuze |Anti-Ödipus |III, IV |C|
 |Gilles Deleuze |Differenz und Wiederholung |I| C|
 |Gilles Deleuze und Félix Guattari |Tausend Plateaus |I, IV| C|
 |Julia Kristeva| Die Revolution der poetischen Sprache |I, IV| C|
 |Jean Baudrillard |Der symbolische Tausch und der Tod |I, IV| C|
 |Giorgio Agamben |Das Offene: Der Mensch und das Tier |III| C|
+|Giorgio Agamben| Homo sacer | II| C|
 |Georges Canguilhem |Wissenschaftsgeschichte und Epistemologie |I, V| C|
 |Georges Canguilhem |Das Normale und das Pathologische |I, V| C|
 |Simone Weil| Die Verwurzelung. Vorspiel zu einer Erklärung der Pflichten dem Menschen gegenüber |II| C|
@@ -395,6 +434,8 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |Hannah Arendt |Macht und Gewalt |II| C|
 |Hannah Arendt |Eichmann in Jerusalem |II| C|
 |Hannah Arendt |Das Urteilen |II| C|
+|Hannah Arendt| Über das Böse | II| C|
+|Hannah Arendt| Was ist Politik? | II| C|
 |Luce Irigaray| Speculum |I| C|
 |Michel Serres| Der Parasit |I, IV| C|
 |Michel Serres |Hermes (Auswahl) |I, IV| C|
@@ -408,13 +449,14 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |Peter Singer| Animal Liberation |II| C|
 |Paul Taylor |Respect for Nature |II| C|
 |Iris Murdoch| Die Souveränität des Guten|II| C|
+|Iris Murdoch| Existentialists and Mystics | II| C|
 |Mary Midgley|Beast and Man|II, V| C|
 |Philippa Foot|Die Natur des Guten|II| C|
 |Philippa Foot | Die Wirklichkeit des Guten| II| C|
 |G.E.M. Anscombe|Modern Moral Philosophy|II| C|
 |G.E.M. Anscombe|Aufsätze|II |C|
-|G.E.M. Anscombe | Intention | I | C|
-|Corinne Pelluchon|Das Zeitalter des Lebendigen: Eine neue Philosophie der Aufklärung|II,VI|C|
+|G.E.M. Anscombe | Absicht (Intention) | II | C|
+|Corinne Pelluchon|Das Zeitalter des Lebendigen: Eine neue Philosophie der Aufklärung|II, VI|C|
 |Miranda Fricker|Epistemische Ungerechtigkeit|II, V|C|
 |Iris Marion Young | Responsibility for Justice | II | C|
 |Iris Marion Young | Justice and the Politics of Difference | II, IV | C|
@@ -431,6 +473,50 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |Ian Hacking | Representing and Intervening, Introductory Topics in the Philosophy of Natural Science  | V, VI | C|
 |Ian Hacking | The Taming of Chance  | V, VI | C|
 |Charles Taylor | The Ethics of Authenticity | II, IV | C|
+|Axel Honneth| Kampf um Anerkennung | II| C|
+|Bernard Williams| Wahrheit und Wahrhaftigkeit | II| C|
+|Chantal Mouffe| Über das Politische | II| C|
+|Charles Taylor| Das sprachbegabte Tier | I, III| C|
+|Christine Korsgaard| Self-Constitution | II, III| C|
+|Christine Korsgaard| The Sources of Normativity | II| C|
+|Daniel Dennett| Consciousness Explained | I| C|
+|Daniel Dennett| The Intentional Stance | I| C|
+|Eckart Förster| Die 25 Jahre der Philosophie | I, II, III| C|
+|Edmund Husserl| Cartesianische Meditationen | I| C|
+|Erich Fromm| Haben oder Sein | II, III| C|
+|Ernst Tugendhat| Selbstbewusstsein und Selbstbestimmung | II| C|
+|Ernst Tugendhat| Vorlesungen über Ethik | II| C|
+|Ferdinand de Saussure| Grundlagen der allgemeinen Sprachwissenschaft | I| C|
+|Gareth Evans| Spielarten der Bezugnahme | I| C|
+|Hilary Putnam| Die Bedeutung von Bedeutung | I| C|
+|Hilary Putnam| Vernunft Wahrheit und Geschichte | I| C|
+|Karl Löwith| Das Individuum in der Rolle des Mitmenschen | II, III| C|
+|Karl-Otto Apel et al.| Hermeneutik und Ideologiekritik | I| C|
+|Michael Tomasello| Die kulturelle Entwicklung des menschlichen Denkens | I, IV, VI| C|
+|Michael Tomasello| Die Ursprünge der menschlichen Kommunikation | I, IV, VI| C|
+|Peter Strawson| Einzelding und logisches Subjekt (Individuals) | I| C|
+|Richard Rorty| Der Spiegel der Natur | I| C|
+|Richard Rorty| Kontingenz Ironie Solidarität | I| C|
+|Robert Brandom| Begründen und begreifen | I| C|
+|Rosalind Hursthouse| On Virtue Ethics | II| C|
+|Ruth Garrett Millikan| Die Vielfalt der Bedeutung | I| C|
+|Saul Kripke| Name und Notwendigkeit | I| C|
+|Stanley Cavell| Der Anspruch der Vernunft | IV| C|
+|Stephen Darwall| The Second-Person Standpoint | II| C|
+|Thomas Nagel| Der Blick von Nirgendwo | I| C|
+|Wilfrid Sellars| Der Empirismus und die Philosophie des Geistes | I| C|
+|Sandra Harding| Objectivity and Diversity | I, V| C|
+|Nancy Cartwright| How the Laws of Physics Lie | I, V| C|
+|Nancy Fraser | Die halbierte Gerechtigkeit | II  | C|  
+|Nancy Fraser| Scales of Justice | II| C|
+|Nancy Fraser| Widerspenstige Praktiken. Macht, Diskurs, Geschlecht | II| C|
+|Nancy Fraser und Axel Honneth| Anerkennung oder Umverteilung? | II| C|
+|Rahel Jaeggi| Entfremdung | II| C|
+|Onora O’Neill| Tugend und Gerechtigkeit | II| C|
+|Onora O’Neill| Gerechtigkeit über Grenzen | II| C|
+|Antony Kwame Appiah| Identitäten | II, III, IV| C|
+|Charles Mills| The Racial Contract | II, IV| C|
+
 
 
 
@@ -501,7 +587,6 @@ Viele der gelisteten Titel eignen sich nur in Auszügen oder kapitelweise für e
 |Mary Warnock | An Intelligent Person's Guide to Ethics | II| C |  
 |Mary Warnock | Existentialist Ethics, Dishonest to God ,Imagination | II| C  |   
 |Melanie Klein |Die Psychoanalyse des Kindes | V| C| 
-|Nancy Fraser | Die halbierte Gerechtigkeit | II  | C|  
 |Pepita Haezrahi | The Price of Morality | II |C|   
 |Rosa Luxemburg | Sozialreform oder Revolution? | II| C |  
 |Sadie Plant | nullen + einsen. Digitale Frauen und die Kultur der neuen Technologien. |  V | C|   
